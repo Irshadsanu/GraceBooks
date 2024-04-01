@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "324995114384",
+    "firebase_url": "https://grace-book-21282-default-rtdb.firebaseio.com",
+    "project_id": "grace-book-21282",
+    "storage_bucket": "grace-book-21282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324995114384:android:da6f278a9231ae6f097f15",
+        "android_client_info": {
+          "package_name": "com.spine.gracebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqQkgpJaxkVIkmKcm2GEXlCgt5sAzYqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324995114384:android:6575c3b3482a233f097f15",
+        "android_client_info": {
+          "package_name": "com.spine.gracebookAdmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqQkgpJaxkVIkmKcm2GEXlCgt5sAzYqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
